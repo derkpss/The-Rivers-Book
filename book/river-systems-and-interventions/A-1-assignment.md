@@ -8,16 +8,19 @@
 # A-1 Assignment
 
 <video controls width="80%">
-  <source src="../../_static/7conclusions.mp4" type="video/mp4">
+  <source src="../../_static/7conclusions.mp4" type="audio/mp4">
   Your browser does not support HTML video.
 </video>
 
 
 
 <video controls width="80%">
-  <source src="../../_static/7-conclusions.mov" type="video/mp4">
+  <source src="../../_static/7-conclusions.mov" type="audio/mp4">
   Your browser does not support HTML video.
 </video>
 
 
-
+<video controls width="80%">
+  <source src="../../_static/mp4test.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
