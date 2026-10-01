@@ -10,10 +10,10 @@
 # A-1 Assignment
 
 ## Demo video
-<video controls width="80%">
-  <source src="audio/7conclusions.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+<audio controls>
+  <source src="audio/7conclusions.mp4" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 ## Another video
 
@@ -22,7 +22,7 @@
   Your browser does not support HTML video.
 </video>
 
-<video controls width="80%">
-  <source src="audio/7-conclusions.mov" type="video/quicktime">
-  Your browser does not support HTML video.
-</video>
+<video controls>
+  <source src="audio/7-conclusions.mov" type="audio/quicktime">
+  Your browser does not support the audio element.
+</audio>
