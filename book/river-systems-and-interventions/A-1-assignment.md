@@ -11,3 +11,13 @@
   <source src="../../_static/7conclusions.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
+
+
+
+<video controls width="80%">
+  <source src="../../_static/7-conclusions.mov" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+
+
