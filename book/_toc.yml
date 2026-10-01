@@ -4,17 +4,20 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: The Rivers Book # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    numbered: false                 # Default value (line can be removed), whether to number the chapters/sections in this part, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
-    restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
+  - caption: River Systems and Interventions
+    numbered: false
+    style: numerical
+    restart_numbering: false
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-      - file: file_to_be_added_to_toc.md
-      - file: file_in_new_issue.md
-      - file: syntax-chapter.md
+      - file: river-systems-and-interventions/A-1-river-systems-and-classification.md
+        sections:
+          - file: river-systems-and-interventions/A-1-assignment.md
+          - file: river-systems-and-interventions/A-1-assignment-2.html
+      - file: river-systems-and-interventions/A-2-catchment-hydrology.md
+      - file: river-systems-and-interventions/A-3-river-basin-hydrology.md
+      - file: river-systems-and-interventions/B-1-national-and-international-river-management.md
+      - file: river-systems-and-interventions/B-2-flood-risk-management.md
+      - file: river-systems-and-interventions/B-3-inland-navigation.md
   - caption: Teachbooks Exercises
     chapters:
     - file: exercises.md
