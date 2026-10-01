@@ -2,7 +2,7 @@
 text
 
 ## Section Title 1
-You can find information on Chezy's law on [this page](file_in_new_issue.md)
+
 
 ## Section Title 2
 text
@@ -15,20 +15,20 @@ text
 
 #### Heading
 ##### Smaller Heading
-###### Figure
+###### Figure Example
 ```{figure} figures/Bangladesh.png
 ---
 width: 80%
 align: center
 ---
-<caption text>
+<Bangladesh>
 ```
 
 ###### Video
 ```{video} https://www.youtube.com/watch/B1J6Ou4q8vE
 ```
 
-###### Equation
+###### Equation Example
 $$ F_(res) = m \cdot a $$
 $$ E = m \cdot c^2 $$
 
