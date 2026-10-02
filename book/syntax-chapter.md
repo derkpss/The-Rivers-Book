@@ -1,4 +1,4 @@
-# Chapter Title
+# Chapter Title (Syntax Chapter
 text
 
 ## Section Title 1
@@ -15,7 +15,7 @@ text
 
 #### Heading
 ##### Smaller Heading
-###### Figure Example
+###### Figure Example:
 ```{figure} figures/Bangladesh.png
 ---
 width: 80%
@@ -23,12 +23,23 @@ align: center
 ---
 <Bangladesh>
 ```
+###### Audio from file in repository: 
+<audio controls>
+  <source src="audio/7conclusions.mp4" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
-###### Video
+## Video from file in repository: 
+<video controls width="80%">
+  <source src="audio/mp4test.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+###### Video from Youtube:
 ```{video} https://www.youtube.com/watch/B1J6Ou4q8vE
 ```
 
-###### Equation Example
+###### Equation examples:
 $$ F_(res) = m \cdot a $$
 $$ E = m \cdot c^2 $$
 
@@ -36,7 +47,7 @@ $$ E = m \cdot c^2 $$
 v = a \cdot t
 ```
 
-###### Table (markdown table generator https://www.tablesgenerator.com/markdown_tables)
+###### Table examples: 
 | Column 1 | Column 2 | Column 3 |
 |---|---|---|
 | Data 1  | Data 2  | Data 3  |
@@ -63,4 +74,4 @@ v = a \cdot t
 * - Item B
   - 15
   - 30
-```
+''''
