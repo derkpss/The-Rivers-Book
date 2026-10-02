@@ -1,4 +1,4 @@
-# Chapter Title (Syntax Chapter
+# Syntax Chapter
 text
 
 ## Section Title 1
