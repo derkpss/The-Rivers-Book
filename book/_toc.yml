@@ -13,7 +13,7 @@ parts:
         sections:
           - file: river-systems-and-interventions/A-1-assignment.md
           - file: river-systems-and-interventions/A-1-assignment-2.html
-          - file: book/syntax-chapter.md
+          - file: syntax-chapter.md
       - file: river-systems-and-interventions/A-2-catchment-hydrology.md
       - file: river-systems-and-interventions/A-3-river-basin-hydrology.md
       - file: river-systems-and-interventions/B-1-national-and-international-river-management.md
