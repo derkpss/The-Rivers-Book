@@ -11,7 +11,7 @@ parts:
     chapters:
       - file: river-systems-and-interventions/A-1-river-systems-and-classification.md
         sections:
-          - file: river-systems-and-interventions/A-1-assignment.md
+          - file: river-systems-and-interventions/syntax-chapter.md
       - file: river-systems-and-interventions/A-2-catchment-hydrology.md
       - file: river-systems-and-interventions/A-3-river-basin-hydrology.md
       - file: river-systems-and-interventions/B-1-national-and-international-river-management.md
