@@ -16,7 +16,7 @@ text
 #### Heading
 ##### Smaller Heading
 ###### Figure Example:
-```{figure} figures/book layout.pdf
+```{figure} figures/book-layout.png
 ---
 width: 80%
 align: center
